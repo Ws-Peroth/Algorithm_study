@@ -1,3 +1,6 @@
+# 최대 공약수와 최소 공배수
+# https://programmers.co.kr/learn/courses/30/lessons/12940
+
 """
 int gcd(int a, int b) {
     return b == 0 ? a : gcd(b, a%b)
