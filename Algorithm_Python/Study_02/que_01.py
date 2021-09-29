@@ -16,6 +16,8 @@ def solution(n):
 
     return answer
 
+
+
 def solution2(n):
     temp = ''
     while(n >= 3):
